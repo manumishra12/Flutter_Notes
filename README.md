@@ -2,6 +2,6 @@
 
 📑```Complete Flutter Guide for Beginner to Advanced.```
 
-<div align="right" width=50% height=50%>
-<h2> <img src = "https://miro.medium.com/max/1838/1*nwSewZvm-QklOxjitP7TiA.gif" width = 32px height=600px> </h2>
+<div align="right" >
+<h2> <img src = "https://github.com/manumishra12/Flutter_Notes/blob/main/Readme_Stuff/Flutter%20Gif.gif?raw=true" width = 10px height=400px> </h2>
 </div>
