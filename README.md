@@ -11,6 +11,6 @@ while maintaining a consistent user experience. 📱📱
 ```
 
 
-<div align="center" >
-  <h2> <img src = "https://github.com/manumishra12/Flutter_Notes/blob/main/Readme_Stuff/Flutter%20Gif.gif?raw=true" width = 10px height=600px> </h2>
+<div align="left" >
+  <h2> <img src = "https://github.com/manumishra12/Flutter_Notes/blob/main/Readme_Stuff/Flutter%20Gif.gif?raw=true" width = 10px height=400px> </h2>
 </div>
